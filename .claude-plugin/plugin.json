@@ -9,7 +9,16 @@
     "url": "https://ostdb.net"
   },
   "homepage": "https://ostdb.net",
+  "privacyPolicyUrl": "https://ostdb.net/privacy",
+  "icon": ".claude-plugin/icon.png",
   "repository": "https://github.com/OSTDB/Claude_Plugin",
   "license": "MIT",
-  "keywords": ["soundtrack", "ost", "video-games", "music", "spotify", "apple-music"]
+  "keywords": [
+    "soundtrack",
+    "ost",
+    "video-games",
+    "music",
+    "spotify",
+    "apple-music"
+  ]
 }
