@@ -1,0 +1,18 @@
+{
+  "name": "ostdb",
+  "owner": {
+    "name": "OSTDB",
+    "email": "matyas@ostdb.net"
+  },
+  "metadata": {
+    "description": "Official OSTDB plugins for finding video game soundtracks."
+  },
+  "plugins": [
+    {
+      "name": "ostdb",
+      "source": "./",
+      "description": "Search OSTDB for official video game soundtracks with Spotify, Apple Music, and album.link streaming links.",
+      "version": "1.0.0"
+    }
+  ]
+}

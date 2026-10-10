@@ -1,0 +1,15 @@
+{
+  "name": "ostdb",
+  "displayName": "OSTDB - Game Soundtracks",
+  "description": "OSTDB connects your assistant to a curated database of video game music. Easily search for video games to find official soundtrack releases, album artwork, and direct streaming links on Spotify, Apple Music, and album.link. Save time digging through streaming services and jump straight to the music from your favorite games.",
+  "version": "1.0.0",
+  "author": {
+    "name": "OSTDB",
+    "email": "matyas@ostdb.net",
+    "url": "https://ostdb.net"
+  },
+  "homepage": "https://ostdb.net",
+  "repository": "https://github.com/OSTDB/Claude_Plugin",
+  "license": "MIT",
+  "keywords": ["soundtrack", "ost", "video-games", "music", "spotify", "apple-music"]
+}

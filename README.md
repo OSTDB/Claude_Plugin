@@ -13,7 +13,7 @@ Search [OSTDB](https://ostdb.net) for official video game soundtracks, with cove
 From GitHub (once this folder is pushed to a repo):
 
 ```
-/plugin marketplace add OSTDB/claude-plugin
+/plugin marketplace add OSTDB/Claude_Plugin
 /plugin install ostdb@ostdb
 ```
 
